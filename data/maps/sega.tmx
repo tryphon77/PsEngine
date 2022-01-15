@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="20" height="14" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="sega" tilewidth="32" tileheight="32" tilecount="16" columns="8">
+  <image source="sega.bmp" width="256" height="64"/>
+ </tileset>
+ <layer id="1" name="layer_0" width="20" height="14">
+  <data encoding="base64" compression="zlib">
+   eJztz7kNACAMwMCIX7zZf1o8Aw1IpLjWklVE1HzJwSMgIiGjHPYqGjoGJtYDn+aeDZGLER8=
+  </data>
+ </layer>
+</map>
